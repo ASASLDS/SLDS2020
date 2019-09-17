@@ -57,11 +57,11 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "Irvine.jpg"
 heroTitle: "SLDS <typeout> 2020"
-eventDate: "May 27-29, 2020"
-typeoutTextValues: '"", "Statistical Learning", "Data Science", "Nonparametric Statistics", "UC Irvine"'
-typeoutFallback: ""
+eventDate: "<typeout> May 27-29, 2020"
+typeoutTextValues: '"Statistical Learning", "Data Science", "Nonparametric Statistics", "UC Irvine"'
+typeoutFallback: "UC Irvine"
 heroButtons:
- - {link: "https://forms.gle/563fdbcjrNm4Lge26", text: "Become on the Program!"}
+ - {link: "https://forms.gle/563fdbcjrNm4Lge26", text: "Be on the Program!"}
  - {permalink: "/#About", text: "Conference Info"}
 
 # About Block
