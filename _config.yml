@@ -1,1 +1,184 @@
-theme: jekyll-theme-cayman
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "SLDS 2020"
+email: "statisticallearninganddatasci@gmail.com"
+description: "Conference on Statistical Learning and Data Science/Nonparametric Statistics 2020"
+baseurl: "/SLDS2020"
+url: "https://asaslds.github.io/SLDS2020/"
+permalink: "/blog/:title"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "gdg-x.github.io"
+#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "ASA SLDS"
+organizerAlternateName: "ASA Section on Statistical Learning and Data Science"
+organizerDescription: "ASA SLDS serves as ASA's focal point for Statistical Learning and Data Science issues; build cooperative relationships on behalf of the Association with other organizations that have interests in these fields; encourage the use of Statistical Learning methods in Data Science applications; create forums for presentation and discussion of research in these fields"
+organizerEmail: "statisticallearninganddatasci@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "https://community.amstat.org/slds/home"
+
+# Head
+metaKeywords: "ASA, SLDS, Statistics, Data Science, Irvine"
+#twitterAccount: "@DevFest"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "https://forms.gle/563fdbcjrNm4Lge26"
+c4sponsorsUrl: "/assets/SLDS_2020_Sponsors.pdf"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+# - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
+bottomNavigationLinks:
+ - {link: "https://forms.gle/563fdbcjrNm4Lge26", text: "Call for Invited Session Proposals"}
+rightNavigationButtons:
+ - {link: "https://forms.gle/563fdbcjrNm4Lge26", text: "Call for Invited Session Proposals"}
+
+# Hero Block
+heroImage: "irvine.jpg"
+heroTitle: "SLDS <typeout> 2020"
+eventDate: "May 27-29, 2020"
+typeoutTextValues: '"", "Statistical Learning", "Data Science", "Nonparametric Statistics", "UC Irvine"'
+typeoutFallback: ""
+heroButtons:
+ - {link: "https://forms.gle/563fdbcjrNm4Lge26", text: "Become on the Program!"}
+ - {permalink: "/#About", text: "Conference Info"}
+
+# About Block
+aboutTitle: "About SLDS 2020"
+aboutBlock:
+ - {title: "Conference", image: "conference.jpg", text: "A bi-annual gathering of top researchers in Statistical Learning, Data Science, and Nonparametric Statistics." }
+ - {title: "Short Courses", image: "shortcourse.jpg", text: "Learning opportunities on the latest advances in data science." }
+ - {title: "Networking", image: "networking.jpg", text: "A platform to promote young researchers and graduate students." }
+
+# Statistic Block
+statisticBlockImage: "SLDS2018.jpg"
+statisticBlock:
+ - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "45", specialCharacter: "+", info: "sessions", detail: "state-of-the-art in data science"}
+ - {count: "20", specialCharacter: "+", info: "posters", detail: "with travel support from NSF"}
+ - {count: "3", specialCharacter: "", info: "keynotes", detail: "envision the future of statistics"}
+
+# Latest News Block
+#latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 4
+#rockstarSpeakersTitle: "Rockstar speakers"
+#rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Conference Venue"
+eventLocationName: "Hyatt Regency Newport Beach"
+eventLocationLink: "https://www.hyatt.com/en-US/hotel/california/hyatt-regency-newport-beach/"
+eventStreetAddress: "1107 Jamboree Road"
+eventAddressLocality: "Newport Beach"
+eventAddressLocalityRegion: "California"
+eventPostalCode: "92660"
+eventAddressCountry: "United States"
+eventStartTime: "2020-05-27"
+#eventDoorTime: "09:00"
+eventEndTime: "2020-05-29"
+eventPlaceCoordinates: "33.6177875,-117.8887242"
+mapCenterCoordinates: "33.6177875,-117.8887242"
+mapMobileCenterCoordinates: "33.6177875,-117.8887242"
+
+# Venue Block
+# venueBlockTitle: "Venue"
+# venueBigImage: "venue_0.jpg"
+# venueSmallImage1: "venue_1.jpg"
+# venueSmallImage2: "venue_2.jpg"
+# venueSmallImage3: "venue_3.jpg"
+# venueTitle: "Kinopalace Cinema"
+# venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+
+# Partners Block
+# organizersTitle: "Organizers"
+# partnersTitle: "Partners"
+# partnersC4sponsorsButton: "Become a sponsor"
+
+# Tickets Block
+# ticketsTitle: "Registration"
+# ticketsInfo: "Conference registration will be via ASA website. Details TBA."
+# ticketsOffers:
+# -
+#  name: "Early Bird"
+#  price: "350"
+#  priceCurrency: "UAH"
+#  ticketsNumber: "150"
+#  ribbon: "-5%"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-25T10:00"
+#  validThrough: "2014-09-30T23:59"
+# -
+#  name: "Last Chance"
+#  price: "450"
+#  priceCurrency: "UAH"
+#  ticketsNumber: "100"
+#  ribbon: "-20%"
+#  featured: true
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-10-01T00:00"
+#  validThrough: "2014-10-23T23:59"
+#  disabled: true
+# -
+#  name: "Student"
+#  price: "200"
+#  priceCurrency: "UAH"
+#  ticketsNumber: "50"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+#  soldOut: true
+#  soldOutText: "Sold Out"
+
+# Blog
+# blogTitle: "Latest news"
+# blogCommentsEnabled: true
+# discusShortName: "devfestua"
+
+# Speakers List Block
+# showSessions: true
+
+# Team Block
+# teamBlockTitle: "About us"
+# aboutUs: "Google's services have become synonymous with simple things online. Number of technological  innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
+# Hackathon
+# hackathonTitle: "Hackathon"
+# enableHackathon: true
+
+# Hackathon About Block
+# aboutHackathonTitle: "Meet our themes"
+# hackathonRows:
+# - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+# - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+# - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}

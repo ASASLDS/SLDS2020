@@ -1,0 +1,5 @@
+- 
+  group: "Sponsors"
+  elements: 
+    - {name: "UC Irvine", description: "Donald Bren School of Information and Computer Sciences, University of California, Irvine ", link: "https://www.ics.uci.edu/", imageUrl: "uci.png"}
+    - {name: "ASA SLDS", description: "Section on Statistical Learning and Data Science, American Statistical Association", link: "https://community.amstat.org/slds/home", imageUrl: "SLDS.png"}

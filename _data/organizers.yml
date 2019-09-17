@@ -1,0 +1,8 @@
+- 
+  group: "Organizer"
+  elements: 
+    - {name: "ASA SLDS", description: "Section on Statistical Learning and Data Science, American Statistical Association", link: "https://community.amstat.org/slds/home", imageUrl: "SLDS.png"}
+-
+  group: "Co-organizer"
+  elements: 
+    - {name: "ASA Nonparametric Statistics", description: "Section on Nonparametric Statistics, American Statistical Association", link: "https://community.amstat.org/nonparametricstatisticssection/home", imageUrl: "nonpara.png"}
