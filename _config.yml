@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://forms.gle/563fdbcjrNm4Lge26", text: "Call for Invited Session Proposals"}
 
 # Hero Block
-heroImage: "irvine.jpg"
+heroImage: "Irvine.jpg"
 heroTitle: "SLDS <typeout> 2020"
 eventDate: "May 27-29, 2020"
 typeoutTextValues: '"", "Statistical Learning", "Data Science", "Nonparametric Statistics", "UC Irvine"'
@@ -67,9 +67,9 @@ heroButtons:
 # About Block
 aboutTitle: "About SLDS 2020"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "A bi-annual gathering of top researchers in Statistical Learning, Data Science, and Nonparametric Statistics." }
- - {title: "Short Courses", image: "shortcourse.jpg", text: "Learning opportunities on the latest advances in data science." }
- - {title: "Networking", image: "networking.jpg", text: "A platform to promote young researchers and graduate students." }
+ - {title: "Conference", image: "conference.JPG", text: "A bi-annual gathering of top researchers in Statistical Learning, Data Science, and Nonparametric Statistics." }
+ - {title: "Short Courses", image: "shortcourse.JPG", text: "Learning opportunities on the latest advances in data science." }
+ - {title: "Networking", image: "networking.JPG", text: "A platform to promote young researchers and graduate students." }
 
 # Statistic Block
 statisticBlockImage: "SLDS2018.jpg"
