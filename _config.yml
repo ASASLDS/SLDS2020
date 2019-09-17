@@ -16,9 +16,9 @@ description: "Conference on Statistical Learning and Data Science/Nonparametric 
 baseurl: "/SLDS2020"
 url: "https://asaslds.github.io/SLDS2020/"
 permalink: "/blog/:title"
-#googleAnalyticsTrackingId: "UA-43643469-5"
-#googleAnalyticsSiteUrl: "gdg-x.github.io"
-#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "ASA SLDS"
