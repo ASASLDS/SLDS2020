@@ -56,13 +56,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "Irvine.jpg"
-heroTitle: "SLDS <typeout>2020"
-eventDate: "<typeout>May 27-29, 2020"
+heroTitle: "SLDS <typeout> 2020"
+eventDate: "May 27-29, 2020"
 typeoutTextValues: '"Statistics", "DataScience", "NonparaStat", "UC-Irvine"'
 typeoutFallback: "UC-Irvine"
 heroButtons:
  - {link: "https://forms.gle/563fdbcjrNm4Lge26", text: "Be on the Program!"}
- - {permalink: "/#About", text: "Conference Info"}
+ - {permalink: "/#about", text: "Conference Info"}
 
 # About Block
 aboutTitle: "About SLDS 2020"
