@@ -43,10 +43,10 @@ c4sponsorsUrl: "/assets/SLDS_2020_Sponsors.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/team/", text: "Program Committee"}
 # - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/schedule/", text: "Program Outline"}
 # - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -56,20 +56,20 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "Irvine.jpg"
-heroTitle: "SLDS <typeout> 2020"
+heroTitle: "SLDS 2020 <typeout> UC-Irvine"
 eventDate: "May 27-29, 2020"
-typeoutTextValues: '"Statistics", "DataScience", "NonparaStat", "UC-Irvine"'
+typeoutTextValues: '"", ""Statistics", "DataScience", "NonparaStat", "UC-Irvine"'
 typeoutFallback: "UC-Irvine"
 heroButtons:
  - {link: "https://forms.gle/563fdbcjrNm4Lge26", text: "Be on the Program"}
  - {permalink: "/#about", text: "Conference Info"}
 
 # About Block
-aboutTitle: "About SLDS 2020"
+aboutTitle: "SLDS 2020"
 aboutBlock:
- - {title: "Conference", image: "conference.JPG", text: "A bi-annual gathering of top researchers in Statistical Learning, Data Science, and Nonparametric Statistics." }
- - {title: "Short Courses", image: "shortcourse.JPG", text: "Learning opportunities on the latest advances in data science." }
- - {title: "Networking", image: "networking.JPG", text: "A platform to promote young researchers and graduate students." }
+ - {title: "Conference", image: "conference.JPG", text: "Conference on Statistical Learning and Data Science/Nonparametric Statistics 2020 (SLDS 2020)-- a bi-annual gathering of top researchers in Statistical Learning, Data Science, and Nonparametric Statistics, and a forum for presentation and discussion of research."}
+ - {title: "Short Courses", image: "shortcourse.JPG", text: "Learning opportunities on the latest advances in data science. ASA SLDS encourages the use of Statistical Learning methods in Data Science applications."}
+ - {title: "Networking", image: "networking.JPG", text: "A platform to promote young researchers and graduate students. ASA SLDS builds cooperative relationships on behalf of the Association with other organizations that have interests in these fields."}
 
 # Statistic Block
 statisticBlockImage: "SLDS2018.jpg"
@@ -78,6 +78,9 @@ statisticBlock:
  - {count: "45", specialCharacter: "+", info: "sessions", detail: "state-of-the-art in data science"}
  - {count: "20", specialCharacter: "+", info: "posters", detail: "with travel support from NSF"}
  - {count: "3", specialCharacter: "", info: "keynotes", detail: "envision the future of statistics"}
+
+# Team Block
+teamBlockTitle: "Program Committee"
 
 # Partners Block
 organizersTitle: "Organizers"

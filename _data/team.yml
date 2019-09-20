@@ -1,60 +1,68 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Hao Helen"
+  surname: "Zhang"
+  title: "General co-Chair"
+  thumbnailUrl: helenzhang.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  ribbon:
+    - {abbr: "PRGM", title: "Scientific Committee"}
+  social:
+    - {name: "site", link: "https://www.math.arizona.edu/~hzhang/"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Tian"
+  surname: "Zheng"
+  title: "General co-Chair"
+  thumbnailUrl: tianzheng.jpeg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  ribbon:
+    - {abbr: "LOCAL", title: "Organizing Committee"}
+  social:
+    - {name: "github", link: "https://github.com/tz33cu"}
+    - {name: "twitter", link: "https://twitter.com/tz33cu"}
+    - {name: "site", link: "https://www.stat.columbia.edu/~tzheng"}
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Jelena"
+  surname: "Bradic"
+  title: "Scientific Committee co-Chair"
+  thumbnailUrl: jelenabradic.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {abbr: "PRGM", title: "Scientific Committee"}
+  social:
+    - {name: "site", link: "https://www.jelenabradic.net/"}
+-
+  id: 5
+  name: "Sarah"
+  surname: "Kalicin"
+  title: "Organizing Committee co-Chair"
+  thumbnailUrl: sarahkalicin.jpeg
+  team: true
+  ribbon:
+    - {abbr: "LOCAL", title: "Organizing Committee"}
+  social:
+    - {name: "site", link: "https://www.linkedin.com/in/sarahkalicin/"}
+-
+  id: 6
+  name: "Lexin"
+  surname: "Li"
+  title: "Scientific Committee co-Chair"
+  thumbnailUrl: lexinli.jpg
+  team: true
+  ribbon:
+    - {abbr: "PRGM", title: "Scientific Committee"}
+  social:
+    - {name: "site", link: "https://publichealth.berkeley.edu/people/lexin-li/"}
+-
+  id: 6
+  name: "Vladinir N."
+  surname: "Minin"
+  title: "Organizing Committee co-Chair"
+  thumbnailUrl: vladimir.jpg
+  team: true
+  ribbon:
+    - {abbr: "LOCAL", title: "Organizing Committee"}
+  social:
+    - {name: "site", link: "http://vnminin.github.io/"}
