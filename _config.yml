@@ -87,6 +87,12 @@ organizersTitle: "Organizers"
 partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
 # Location Block
 locationImage: "hyatt.jpg"
 locationBlockTitle: "Conference Venue"
