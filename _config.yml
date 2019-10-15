@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "Irvine.jpg"
-heroTitle: "SLDS 2020 <typeout> UC-Irvine"
+heroTitle: "SLDS 2020 <typeout>"
 eventDate: "May 27-29, 2020"
 typeoutTextValues: '"", "Statistics", "DataScience", "NonparaStat", "UC-Irvine"'
 typeoutFallback: "UC-Irvine"
