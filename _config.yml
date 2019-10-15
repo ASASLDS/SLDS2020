@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "Irvine.jpg"
 heroTitle: "SLDS 2020 <typeout> UC-Irvine"
 eventDate: "May 27-29, 2020"
-typeoutTextValues: '"", ""Statistics", "DataScience", "NonparaStat", "UC-Irvine"'
+typeoutTextValues: '"", "Statistics", "DataScience", "NonparaStat", "UC-Irvine"'
 typeoutFallback: "UC-Irvine"
 heroButtons:
  - {link: "https://forms.gle/563fdbcjrNm4Lge26", text: "Be on the Program"}
