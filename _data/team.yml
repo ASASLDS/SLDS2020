@@ -66,3 +66,42 @@
     - {abbr: "LOCAL", title: "Organizing Committee"}
   social:
     - {name: "site", link: "http://vnminin.github.io/"}
+-
+  id: -1
+  name: "Xerxes"
+  surname: "Xoe"
+  title: "Temp1"
+  thumbnailUrl: vladimir.jpg
+  subTeam: true
+  url: "http://vnminin.github.io/"
+  affiliation: Columbia University
+  ribbon:
+    - {abbr: "LOCAL", title: "Organizing Committee"}
+  social:
+    - {name: "site", link: "http://vnminin.github.io/"}
+-
+  id: -2
+  name: "John"
+  surname: "Doe"
+  title: "Temp2"
+  thumbnailUrl: vladimir.jpg
+  subTeam: true
+  affiliation: Test
+  url: "http://vnminin.github.io/"
+  ribbon:
+    - {abbr: "LOCAL", title: "Organizing Committee"}
+  social:
+    - {name: "site", link: "http://vnminin.github.io/"}
+-
+  id: -3
+  name: "Jane"
+  surname: "Doe"
+  title: "Temp3"
+  thumbnailUrl: vladimir.jpg
+  affiliation: University of Michigan
+  subTeam: true
+  url: "http://vnminin.github.io/"
+  ribbon:
+    - {abbr: "LOCAL", title: "Organizing Committee"}
+  social:
+    - {name: "site", link: "http://vnminin.github.io/"}
