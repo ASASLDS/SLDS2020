@@ -96,7 +96,7 @@
   surname: "Kolar"
   title: "Scientific Committee Member"
   subTeam: true
-  url: "#"
+  url: "http://sites.coffeejunkies.org/mkolar/"
   affiliation: "University of Chicago"
 -
   id: 10
@@ -168,8 +168,8 @@
   surname: "Qu"
   title: "Scientific Committee Member"
   subTeam: true
-  url: "#"
-  affiliation: "???"
+  url: "https://publish.illinois.edu/anniequ/"
+  affiliation: "UC Irvine"
 -
   id: 19
   name: "Rui"
@@ -203,7 +203,7 @@
   url: "http://users.stat.umn.edu/~arothman/"
   affiliation: "University of Minnesota"
 -
-  id: 22
+  id: 23
   name: "Joshua"
   surname: "Loftus"
   title: "Scientific Committee Member"
