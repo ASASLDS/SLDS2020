@@ -67,26 +67,146 @@
   social:
     - {name: "site", link: "http://vnminin.github.io/"}
 -
-  id: -1
-  name: "Xerxes"
-  surname: "Xoe"
-  title: "Temp1"
+  id: 7
+  name: "Haoda"
+  surname: "Fu"
+  title: "Scientific Committee Member"
   subTeam: true
-  url: "http://vnminin.github.io/"
-  affiliation: Columbia University
+  url: "#"
+  affiliation: "Eli Lilly"
 -
-  id: -2
-  name: "John"
-  surname: "Doe"
-  title: "Temp2"
+  id: 8
+  name: "Stefan"
+  surname: "Wager"
+  title: "Scientific Committee Member"
   subTeam: true
-  affiliation: Test
-  url: "http://vnminin.github.io/"
+  url: "https://web.stanford.edu/~swager/"
+  affiliation: "Stanford University"
 -
-  id: -3
-  name: "Jane"
-  title: "Temp3"
-  surname: "Doe"
-  affiliation: University of Michigan
+  id: 9
+  name: "Aaditya"
+  surname: "Ramdas"
+  title: "Scientific Committee Member"
   subTeam: true
-  url: "https://www.google.com"
+  url: "https://www.stat.cmu.edu/~aramdas/"
+  affiliation: "CMU"
+-
+  id: 9
+  name: "Mladen"
+  surname: "Kolar"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "#"
+  affiliation: "University of Chicago"
+-
+  id: 10
+  name: "Haoran"
+  surname: "Li"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "#"
+  affiliation: "Columbia University"
+-
+  id: 11
+  name: "Ryan"
+  surname: "Tibshirani"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "https://www.stat.cmu.edu/~ryantibs/"
+  affiliation: "CMU"
+-
+  id: 12
+  name: "Jacob"
+  surname: "Bien"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://faculty.marshall.usc.edu/Jacob-Bien/"
+  affiliation: "USC"
+-
+  id: 13
+  name: "Yingying"
+  surname: "Fan"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://faculty.marshall.usc.edu/Yingying-Fan/"
+  affiliation: "USC"
+-
+  id: 14
+  name: "Xiaotong"
+  surname: "Shen"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://users.stat.umn.edu/~xshen/"
+  affiliation: "University of Minnesota"
+-
+  id: 15
+  name: "Yufeng"
+  surname: "Lui"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://yfliu.web.unc.edu/"
+  affiliation: "UNC Chapel Hill"
+-
+  id: 16
+  name: "Guang"
+  surname: "Cheng"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "https://www.stat.purdue.edu/~chengg/"
+  affiliation: "Purdue"
+-
+  id: 17
+  name: "Ji"
+  surname: "Zhu"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://dept.stat.lsa.umich.edu/~jizhu/"
+  affiliation: "University of Michigan"
+-
+  id: 18
+  name: "Annie"
+  surname: "Qu"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "#"
+  affiliation: "???"
+-
+  id: 19
+  name: "Rui"
+  surname: "Song"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "https://rsong.wordpress.ncsu.edu/"
+  affiliation: "North Caroline State University"
+-
+  id: 20
+  name: "Lucas"
+  surname: "Janson"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://lucasjanson.fas.harvard.edu/"
+  affiliation: "Harvard University"
+-
+  id: 21
+  name: "Tengyu"
+  surname: "Ma"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "https://ai.stanford.edu/~tengyuma/"
+  affiliation: "Stanford University"
+-
+  id: 22
+  name: "Adam"
+  surname: "Rothman"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://users.stat.umn.edu/~arothman/"
+  affiliation: "University of Minnesota"
+-
+  id: 22
+  name: "Joshua"
+  surname: "Loftus"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://joshualoftus.com/"
+  affiliation: "New York University"
