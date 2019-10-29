@@ -210,3 +210,43 @@
   subTeam: true
   url: "http://joshualoftus.com/"
   affiliation: "New York University"
+-
+  id: 24
+  name: "Souvik"
+  surname: "Ghosh"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "https://www.linkedin.com/in/souvix/"
+  affiliation: "LinkedIn"
+-
+  id: 25
+  name: "Ali"
+  surname: "Shojaie"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://faculty.washington.edu/ashojaie/"
+  affiliation: "University of Washington"
+-
+  id: 26
+  name: "Ben"
+  surname: "Hansen"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "https://lsa.umich.edu/stats/people/faculty/bbh.html"
+  affiliation: "University of Michigan"
+-
+  id: 27
+  name: "Alexander"
+  surname: "Aue"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://www.stat.ucdavis.edu/~alexaue/"
+  affiliation: "UC Davis"
+-
+  id: 28
+  name: "Damla"
+  surname: "Senturk"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://dsenturk.bol.ucla.edu/"
+  affiliation: "UCLA"
