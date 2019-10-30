@@ -37,7 +37,8 @@
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Committee members</h4>
             <div class="col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <ul>
-                    {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
+                    {% assign sorted_team = (site.data.team | sort: 'surname') %}
+                    {% for teamMember in sorted_team %} {% if teamMember.subTeam != null %}
                         <li class="committeeName"> <a href="{{ teamMember.url }}"> 
                             {{ teamMember.name }} <span>{{ teamMember.surname }}</span> ({{ teamMember.affiliation }})
                         </a> </li>
