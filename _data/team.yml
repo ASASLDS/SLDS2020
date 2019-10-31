@@ -57,7 +57,7 @@
     - {name: "site", link: "https://publichealth.berkeley.edu/people/lexin-li/"}
 -
   id: 6
-  name: "Vladinir N."
+  name: "Vladimir N."
   surname: "Minin"
   title: "Organizing Committee co-Chair"
   thumbnailUrl: vladimir.jpg
@@ -250,3 +250,11 @@
   subTeam: true
   url: "http://dsenturk.bol.ucla.edu/"
   affiliation: "UCLA"
+-
+  id: 29
+  name: "David"
+  surname: "Madigan"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "http://www.stat.columbia.edu/~madigan/"
+  affiliation: "Columbia University"
