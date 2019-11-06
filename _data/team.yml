@@ -258,3 +258,11 @@
   subTeam: true
   url: "http://www.stat.columbia.edu/~madigan/"
   affiliation: "Columbia University"
+-
+  id: 30
+  name: "Raquel"
+  surname: "Prado"
+  title: "Scientific Committee Member"
+  subTeam: true
+  url: "https://www.soe.ucsc.edu/people/raquel"
+  affiliation: "UC Santa Cruz"
