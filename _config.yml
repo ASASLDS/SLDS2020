@@ -78,6 +78,8 @@ statisticBlock:
  - {count: "45", specialCharacter: "+", info: "sessions", detail: "state-of-the-art in data science"}
  - {count: "20", specialCharacter: "+", info: "posters", detail: "with travel support from NSF"}
  - {count: "3", specialCharacter: "", info: "keynotes", detail: "envision the future of statistics"}
+ - {count: "2", specialCharacter: "", info: "short courses", detail: "learning opportunities"}
+ - {count: "3", specialCharacter: "", info: "student paper winners", detail: "best of the next generation"}
 
 # Team Block
 teamBlockTitle: "Program Committee"
