@@ -72,14 +72,12 @@ aboutBlock:
  - {title: "Networking", image: "networking.JPG", text: "A platform to promote young researchers and graduate students. ASA SLDS builds cooperative relationships on behalf of the Association with other organizations that have interests in these fields."}
 
 # Statistic Block
-statisticBlockImage: "SLDS2018.jpg"
+statisticBlockImage: "poster.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "45", specialCharacter: "+", info: "sessions", detail: "state-of-the-art in data science"}
  - {count: "20", specialCharacter: "+", info: "posters", detail: "with travel support from NSF"}
  - {count: "3", specialCharacter: "", info: "keynotes", detail: "envision the future of statistics"}
- - {count: "2", specialCharacter: "", info: "short courses", detail: "learning opportunities"}
- - {count: "3", specialCharacter: "", info: "student paper winners", detail: "best of the next generation"}
 
 # Team Block
 teamBlockTitle: "Program Committee"
@@ -90,7 +88,7 @@ partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "slds2018.jpg"
 rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Keynote Speakers"
 rockstarSpeakersButtonText: "See all speakers"
