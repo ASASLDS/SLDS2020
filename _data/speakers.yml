@@ -67,16 +67,15 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: -1
-  name: "John"
-  surname: "Doe"
-  company: "Placeholder Company #1"
-  title: "Placeholder Title #1"
-  bio: "Placeholder Bio #1"
+  name: "Deepak"
+  surname: "Agarwal"
+  company: "LinkedIn"
+  title: "VP of Engineering, Artificial Intelligence"
+  bio: ""
   thumbnailUrl: "keynote_placeholder.gif"
   rockstar: true
   ribbon:
-    - {abbr: "Columbia", title: "Title #1", url: "https://www.google.com"}
-    - {abbr: "GDG", title: "Title #2", url: "https://www.google.com"}
+    - {abbr: "LinkedIn", title: "VP of Engineering, Artificial Intelligence", url: "https://www.linkedin.com/in/dipu1025/"}
 -
   id: -2
   name: "Jane"
