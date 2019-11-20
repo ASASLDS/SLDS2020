@@ -5,3 +5,4 @@
     - {name: "ASA SLDS", description: "Section on Statistical Learning and Data Science, American Statistical Association", link: "https://community.amstat.org/slds/home", imageUrl: "SLDS.png"}
     - {name: "University of Arizona TRIPODS", description: "", link: "https://tripods.math.arizona.edu/", imageUrl: "ua_tripods.png"}
     - {name: "University of Michigan", description: "University of Michigan Department of Statistics", link: "https://lsa.umich.edu/stats", imageUrl: "umich.png"}
+    - {name: "Columbia University", description: "Columbia University Department of Statistics", link: "https://stat.columbia.edu/", imageUrl: "columbia.png"}
