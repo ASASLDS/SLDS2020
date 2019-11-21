@@ -1,6 +1,6 @@
 <!-- Begin Speakers List 2-->
 <section id="speakers">
-    <div class="content-wrapper">
+    <div class="row content-wrapper">
         <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
             {% for speaker in site.data.speakers %}
             {% if speaker.mainEvent == true %}
@@ -39,7 +39,25 @@
             {% endif %}
             {% endfor %}
         </div>
-        <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>         
     </div>
+
+    <div class="row content-wrapper">
+        <!-- Regular Speakers (the normal ones) -->
+        <div class="col-lg-10 col-lg-offset-1 text-center appear-animation-trigger">
+            <div class="col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <ul>
+                    {% assign sorted_speaker = (site.data.speakers | sort: 'surname') %}
+                    {% for speaker in sorted_speaker %} {% if speaker.mainEvent != true %}
+                        <li class="committeeName"> 
+                            {{ speaker.name }} <span>{{ speaker.surname }}</span> ({{ speaker.company }})
+                        </li>
+                    {% endif %} {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>
+
 </section>
 <!-- End Speakers List 2 -->
