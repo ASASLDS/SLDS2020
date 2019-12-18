@@ -21,15 +21,13 @@
   ribbon:
     - {abbr: "Rutgers University", title: "Distinguished Professor and Chair", url: "https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/391-regina-y-liu"}
 -
-  id: -3
-  name: "Xerxes"
-  surname: "Xoe"
-  company: "Placeholder Company #3"
-  title: "Placeholder Title #3"
-  bio: "Placeholder Bio #3"
-  thumbnailUrl: "keynote_placeholder.gif"
+  id: 3
+  name: "Jane-Ling"
+  surname: "Wang"
+  company: "Department of Statistics, UC Davis"
+  title: "Distinguished Professor"
+  bio: ""
+  thumbnailUrl: "jane_ling.jpeg"
   rockstar: true
   ribbon:
-    - {abbr: "Columbia", title: "Title #1", url: "https://www.google.com"}
-    - {abbr: "Placeholder", title: "Title #2", url: "https://www.google.com"}
-    - {abbr: "Placeholder2", title: "Title #3", url: "https://www.google.com"}
+    - {abbr: "UC Davis", title: "Distinguished Professor", url: "http://anson.ucdavis.edu/~wang/index.html"}
