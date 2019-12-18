@@ -10,17 +10,16 @@
   ribbon:
     - {abbr: "LinkedIn", title: "VP of Engineering, Artificial Intelligence", url: "https://www.linkedin.com/in/dipu1025/"}
 -
-  id: -2
-  name: "Jane"
-  surname: "Doe"
-  company: "Placeholder Company #2"
-  title: "Placeholder Title #2"
-  bio: "Placeholder Bio #2"
-  thumbnailUrl: "keynote_placeholder.gif"
+  id: 2
+  name: "Regina Y."
+  surname: "Liu"
+  company: "Department of Statistics, Rutgers University"
+  title: "Distinguished Professor and Chair"
+  bio: ""
+  thumbnailUrl: "regina_liu.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "Placeholder", title: "Title #1", url: "https://www.google.com"}
-    - {abbr: "Columbia", title: "Title #2", url: "https://www.google.com"}
+    - {abbr: "Rutgers University", title: "Distinguished Professor and Chair", url: "https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/391-regina-y-liu"}
 -
   id: -3
   name: "Xerxes"
