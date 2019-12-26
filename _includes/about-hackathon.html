@@ -1,7 +1,7 @@
 <!-- About Hackathon Section -->
-<section id="about-hackathon" class="about-hackathon">
+<section id="about-hackathon" class="about-hackathon" style='padding-bottom: 0px;'>
     <div class="content-wrapper">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-10 col-md-offset-1">
             <h3>{{ site.aboutHackathonTitle }}</h3>
             {% for row in site.hackathonRows %}
             {% assign check = forloop.index0 | modulo:2 %}
@@ -11,7 +11,10 @@
                 </div>
                 <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
                     <h4>{{ row.title }}</h4>
+                    <p><b>Instructor(s):</b> {{ row.instructors }}</p>
+                    <p><b>Time:</b> {{ row.time }}</p>
                     <p>{{ row.details }}</p>
+                    <p><b>Cost:</b> ${{ row.cost }} Seats are limited. One may add this short course to his/her registration at any time via the registration form (link to the registration page).</p>
                 </div>
             </div>
             {% endfor %}
