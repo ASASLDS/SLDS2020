@@ -44,6 +44,7 @@ c4sponsorsUrl: "/assets/SLDS_2020_Sponsors.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "Program Committee"}
+ - {permalink: "/courses/", text: "Invited Short Courses"}
  - {link: "https://publish.illinois.edu/sldsc2018/", text: "SLDS 2018"}
 # - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Program Outline"}
