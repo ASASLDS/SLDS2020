@@ -1,0 +1,18 @@
+<!-- About Instructors Section -->
+<section id='about-instructors' class='about-hackathon' style='padding-top:0px;'>
+    <div class="content-wrapper">
+        <div class="col-md-10 col-md-offset-1">
+    <h3>Instructor Bios</h3>
+    {% for instructor in site.instructorBios %}
+    <div class="col-md-12" style='padding-bottom:10px;'>
+        <div class="animated" data-delay="0">
+            <h5>{{ instructor.name }}</h5>
+            <p><b>Affiliation:</b> {{ instructor.affiliation }} {% if instructor.email %}  ({{instructor.email}}) {% endif %}</p>
+            <p>{{ instructor.bio }}</p>
+        </div>
+    </div>
+    {% endfor %}
+    </div>
+    </div>
+</section>
+<!-- End About Instructors Section -->
