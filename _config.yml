@@ -112,11 +112,13 @@ mapCenterCoordinates: "33.6177875,-117.8887242"
 mapMobileCenterCoordinates: "33.6177875,-117.8887242"
 
 # Invited Short Courses
-aboutHackathonTitle: "Meet our themes"
+hackathonTitle: "Hackathon"
+enableHackathon: true
+aboutHackathonTitle: "Short Courses"
 hackathonRows: 
  - {title: "Short Course I (SC1) | Deep Learning in Statistics",
     image: "hackathon-0.png",
-    instructors: "Annie Qu (anniequ@illinois.edu, UIUC), Xiao Wang (wangxiao@purdue.edu, Purdue University), Edgar Dobriban (dobriban@wharton.upenn.edu, University of Pennsylvania)",
+    instructors: "Annie Qu (UIUC), Xiao Wang (Purdue University), Edgar Dobriban (University of Pennsylvania)",
     time: "Tuesday, May 26, 2020, 9 AM - 5 PM",
     cost: "100",
     details: "This short course is for those new to data science and interested in understanding the cutting-edge deep learning models. It is for those who want to become familiar with the core concepts behind deep learning algorithms and their successful applications. It is for those who want to start thinking about how deep learning might be useful in their business or career. This one-day short course will provide a comprehensive overview of deep learning methods from the statistics perspective. Topics include deep feedforward neural networks, convolutional neural networks, deep Boltzmann machine, variational autoencoders, generative adversarial networks, learning theory fundamentals, generalization error bounds for deep neural networks, deep learning in R, an overview of the Keras package. Various application examples will be discussed in detail as well."}
@@ -126,6 +128,27 @@ hackathonRows:
     time: "Tuesday, May 26, 2020, 1 PM - 5 PM",
     cost: "50",
     details: "This half-day short course will provide an overview of statistical machine learning, and artificial intelligence techniques with applications to the precision medicine, in particular, to deriving optimal individualized treatment strategies for personalized medicine. This short course will cover both the treatment selection and treatment transition. The treatment selection framework is based on outcome weighted classification. We will cover logistic regression, support vector machine (SVM), ?-learning, robust SVM, and angle based classifiers for multi-category learning, and we will show how to modify these classification methods into outcome weighted learning algorithms for personalized medicine. The second part of this short course will also cover the treatment transition. We will provide an introduction to reinforcement learning techniques. Algorithms, including dynamic programming for Markov Decision Process, temporal difference learning, SARSA, Q-Learning algorithms, actor-critic methods, will be covered. We will discuss how to use these methods for developing optimal treatment transition strategies. The techniques discussed will be demonstrated in R. This course is intended for graduate students who have some knowledge of statistics and want to be introduced to statistical machine learning, or practitioners who would like to apply statistical machine learning techniques to their problems on personalized medicine and other biomedical applications."}
+
+instructorBios:
+ - {name: 'doot',
+    affiliation: 'doot university',
+    email: 'doot@doot.edu',
+    bio: 'doot doot'}
+ - {name: 'Annie Qu',
+    affiliation: 'University of Illinois Urbana Champaign',
+    email: 'anniequ@illinois.edu',
+    bio: 'Hello World!'}
+ - {name: 'Xiao Wang',
+    affiliation: 'Purdue University',
+    email: 'wangxiao@purdue.edu',
+    bio: 'doot doot'}
+ - {name: 'Edgar Dobriban',
+    affiliation: 'University of Pennsylvania',
+    email: 'dobriban@wharton.upenn.edu',
+    bio: 'pew pew'}
+ - {name: 'Haoda Fu',
+    affiliation: 'Eli Lilly',
+    bio: 'Dr. Haoda Fu is a senior research advisor and a enterprise lead for Machine Learning, Artificial Intelligence, and Digital Connected Care from Eli Lilly and Company. Dr. Haoda Fu is a Fellow of ASA (American Statistical Association). He is also an adjunct professor of biostatistics department, Indiana university school of medicine. Dr. Fu received his Ph.D. in statistics from University of Wisconsin - Madison in 2007 and joined Lilly after that. Since he joined Lilly, he is very active in statistics methodology research. He has more than 90 publications in the areas, such as Bayesian adaptive design, survival analysis, recurrent event modeling, personalized medicine, indirect and mixed treatment comparison, joint modeling, Bayesian decision making, and rare events analysis. In recent years, his research area focuses on machine learning and artificial intelligence. His research has been published in various top journals including JASA, JRSS, Biometrics, ACM, IEEE, JAMA, Annals of Internal Medicine etc.. He has been teaching topics of machine learning and AI in large industry conferences including teaching this topic in FDA workshop. He was board of directors for statistics organizations and program chairs, committee chairs such as ICSA, ENAR, and ASA Biopharm session.'}
 
 # # Hackathon
 # hackathonTitle: "Hackathon"
