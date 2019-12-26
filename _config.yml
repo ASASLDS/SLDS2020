@@ -112,9 +112,9 @@ mapCenterCoordinates: "33.6177875,-117.8887242"
 mapMobileCenterCoordinates: "33.6177875,-117.8887242"
 
 # Invited Short Courses
-hackathonTitle: "Hackathon"
+hackathonTitle: "Invited Short Courses"
 enableHackathon: true
-aboutHackathonTitle: "Short Courses"
+aboutHackathonTitle: "Invited Short Courses"
 hackathonRows: 
  - {title: "Short Course I (SC1) | Deep Learning in Statistics",
     image: "qu_wang_dobriban2.png",
