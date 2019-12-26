@@ -1,9 +1,9 @@
-<!-- About Hackathon Section -->
+<!-- About Short Courses Section -->
 <section id="about-hackathon" class="about-hackathon" style='padding-bottom: 0px;'>
     <div class="content-wrapper">
         <div class="col-md-10 col-md-offset-1">
-            <h3>{{ site.aboutHackathonTitle }}</h3>
-            {% for row in site.hackathonRows %}
+            <h3>{{ site.aboutShortCourseTitle }}</h3>
+            {% for row in site.shortCourseRows %}
             {% assign check = forloop.index0 | modulo:2 %}
             <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
                 <div class="hackathon-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
@@ -21,4 +21,4 @@
         </div>
     </div>
 </section>
-<!-- End About Hackathon Section -->
+<!-- End About Short Courses Section -->
