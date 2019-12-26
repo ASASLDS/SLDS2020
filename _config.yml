@@ -112,10 +112,9 @@ mapCenterCoordinates: "33.6177875,-117.8887242"
 mapMobileCenterCoordinates: "33.6177875,-117.8887242"
 
 # Invited Short Courses
-hackathonTitle: "Invited Short Courses"
-enableHackathon: true
-aboutHackathonTitle: "Invited Short Courses"
-hackathonRows: 
+shortCourseTitle: "Invited Short Courses"
+aboutShortCourseTitle: "Invited Short Courses"
+shortCourseRows: 
  - {title: "Short Course I (SC1) | Deep Learning in Statistics",
     image: "qu_wang_dobriban2.png",
     instructors: "Annie Qu (UIUC), Xiao Wang (Purdue University), Edgar Dobriban (University of Pennsylvania)",
@@ -128,7 +127,6 @@ hackathonRows:
     time: "Tuesday, May 26, 2020, 1 PM - 5 PM",
     cost: "50",
     details: "This half-day short course will provide an overview of statistical machine learning, and artificial intelligence techniques with applications to the precision medicine, in particular, to deriving optimal individualized treatment strategies for personalized medicine. This short course will cover both the treatment selection and treatment transition. The treatment selection framework is based on outcome weighted classification. We will cover logistic regression, support vector machine (SVM), ?-learning, robust SVM, and angle based classifiers for multi-category learning, and we will show how to modify these classification methods into outcome weighted learning algorithms for personalized medicine. The second part of this short course will also cover the treatment transition. We will provide an introduction to reinforcement learning techniques. Algorithms, including dynamic programming for Markov Decision Process, temporal difference learning, SARSA, Q-Learning algorithms, actor-critic methods, will be covered. We will discuss how to use these methods for developing optimal treatment transition strategies. The techniques discussed will be demonstrated in R. This course is intended for graduate students who have some knowledge of statistics and want to be introduced to statistical machine learning, or practitioners who would like to apply statistical machine learning techniques to their problems on personalized medicine and other biomedical applications."}
-
 instructorBios:
  - {name: 'Annie Qu',
     affiliation: 'University of Illinois Urbana Champaign',
@@ -145,26 +143,4 @@ instructorBios:
  - {name: 'Haoda Fu',
     affiliation: 'Eli Lilly',
     bio: 'Dr. Haoda Fu is a senior research advisor and a enterprise lead for Machine Learning, Artificial Intelligence, and Digital Connected Care from Eli Lilly and Company. Dr. Haoda Fu is a Fellow of ASA (American Statistical Association). He is also an adjunct professor of biostatistics department, Indiana university school of medicine. Dr. Fu received his Ph.D. in statistics from University of Wisconsin - Madison in 2007 and joined Lilly after that. Since he joined Lilly, he is very active in statistics methodology research. He has more than 90 publications in the areas, such as Bayesian adaptive design, survival analysis, recurrent event modeling, personalized medicine, indirect and mixed treatment comparison, joint modeling, Bayesian decision making, and rare events analysis. In recent years, his research area focuses on machine learning and artificial intelligence. His research has been published in various top journals including JASA, JRSS, Biometrics, ACM, IEEE, JAMA, Annals of Internal Medicine etc.. He has been teaching topics of machine learning and AI in large industry conferences including teaching this topic in FDA workshop. He was board of directors for statistics organizations and program chairs, committee chairs such as ICSA, ENAR, and ASA Biopharm session.'}
-
-# # Hackathon
-# hackathonTitle: "Hackathon"
-# enableHackathon: true
-
-# # Hackathon About Block
-# aboutHackathonTitle: "Meet our themes"
-# hackathonRows:
-#  - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
-#  - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
-#  - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
-
-# # Hackathon Judges Block
-# judgesImage: "judges.jpg"
-# judgesTitle: "Judges"
-
-# # Hackathon Prizes Block
-# prizesTitle: "Prizes"
-# prizes:
-#  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
-#  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
-#  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
