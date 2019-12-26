@@ -117,7 +117,7 @@ enableHackathon: true
 aboutHackathonTitle: "Short Courses"
 hackathonRows: 
  - {title: "Short Course I (SC1) | Deep Learning in Statistics",
-    image: "hackathon-0.png",
+    image: "qu_wang_dobriban.png",
     instructors: "Annie Qu (UIUC), Xiao Wang (Purdue University), Edgar Dobriban (University of Pennsylvania)",
     time: "Tuesday, May 26, 2020, 9 AM - 5 PM",
     cost: "100",
