@@ -145,3 +145,16 @@ instructorBios:
     affiliation: 'Eli Lilly',
     bio: 'Dr. Haoda Fu is a research fellow and a enterprise lead for Machine Learning, Artificial Intelligence, and Digital Connected Care from Eli Lilly and Company. Dr. Haoda Fu is a Fellow of ASA (American Statistical Association). He is also an adjunct professor of biostatistics department, Indiana university school of medicine. Dr. Fu received his Ph.D. in statistics from University of Wisconsin - Madison in 2007 and joined Lilly after that. Since he joined Lilly, he is very active in statistics methodology research. He has more than 90 publications in the areas, such as Bayesian adaptive design, survival analysis, recurrent event modeling, personalized medicine, indirect and mixed treatment comparison, joint modeling, Bayesian decision making, and rare events analysis. In recent years, his research area focuses on machine learning and artificial intelligence. His research has been published in various top journals including JASA, JRSS, Biometrics, ACM, IEEE, JAMA, Annals of Internal Medicine etc.. He has been teaching topics of machine learning and AI in large industry conferences including teaching this topic in FDA workshop. He was board of directors for statistics organizations and program chairs, committee chairs such as ICSA, ENAR, and ASA Biopharm session.'}
 
+# Registration Page
+keyDates:
+- {date: 'February 15th, 2020',
+   info: 'Deadline for Contributed Poster Submissions, Student Paper Competition Submissions, and Student Travel Award Applications'}
+- {date: 'April 15th, 2020',
+   info: 'Early Registration Ends'}
+- {date: 'May 5th, 2020',
+   info: 'Hotel Reservation Ends'}
+- {date: 'May 15th, 2020',
+   info: 'Registration Cancellation Deadline'}
+registrationCost:
+- {name: 'doot'}
+- {name: 'pew'}

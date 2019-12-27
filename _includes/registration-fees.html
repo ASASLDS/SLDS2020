@@ -2,7 +2,10 @@
 <section id='registration-fees'>
     <div class="content-wrapper">
         <div class="col-md-10 col-md-offset-1">
-        Hello This is Registration Fees
+        <h3>Registration Fees</h3>
+        {% for regCost in site.registrationCost %}
+            <p>{{ regCost.name }}</p>
+        {% endfor %}
         </div>
     </div>
 </section>
