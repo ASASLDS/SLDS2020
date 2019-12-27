@@ -155,6 +155,10 @@ keyDates:
    info: 'Hotel Reservation Ends'}
 - {date: 'May 15th, 2020',
    info: 'Registration Cancellation Deadline'}
+registrationTitles:
+   - 'Member Type'
+   - 'Now through April 15, 2020'
+   - 'After April 15, 2020'
 registrationCost:
 - {rowLabel: 'Nonmember',
    earlyCost: 500,

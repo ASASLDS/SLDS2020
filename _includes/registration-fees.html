@@ -22,7 +22,24 @@
                     </tr>
                 {% endfor %}
             </table>
+
+        <div class="timeslot track-header stick-header">
+            <div class="timeslot-elements flexbox-wrapper">
+                {% for header in site.registrationTitles %}
+                <div class="track-header-slot col-md-3 flexbox-item-height hidden-xs">
+                    <h5 class="track-header-title">{{ header }}</h5>
+                </div>
+                {% endfor %}
+                <div class="track-header-slot col-xs-12 visible-xs">
+                    <h5 class="slot-detail track-header-title"></h5>
+                </div>
+            </div>
         </div>
+
+    </div>
+
+
+
         </div>
     </div>
 </section>
