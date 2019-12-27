@@ -4,10 +4,9 @@
         <div class="col-md-6 col-md-offset-3">
         <h3>Key Dates</h3>
         <div class="animated" data-delay="0" style='text-align: left; font-size: 13px;'>
-                <p><b>February 15th, 2020</b> - Deadline for Contributed Poster Submissions, Student Paper Competition Submissions, and Student Travel Award Applications</li>
-                <p><b>April 15th, 2020</b> - Early Registration Ends</p>
-                <p><b>May 5th, 2020</b> - Hotel Reservation Ends</p>
-                <p><b>May 15th, 2020</b> - Registration Cancellation Deadline</p>
+            {% for date_info in site.keyDates %}
+            <p><b>{{ date_info.date }}</b> - {{ date_info.info }} </p>
+            {% endfor %}
         </div>
         </div>
     </div>
