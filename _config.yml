@@ -156,5 +156,21 @@ keyDates:
 - {date: 'May 15th, 2020',
    info: 'Registration Cancellation Deadline'}
 registrationCost:
-- {name: 'doot'}
-- {name: 'pew'}
+- {rowLabel: 'Nonmember',
+   earlyCost: 500,
+   lateCost: 600}
+- {rowLabel: 'Nonmember',
+   earlyCost: 500,
+   lateCost: 600}
+- {rowLabel: 'Nonmember',
+   earlyCost: 500,
+   lateCost: 600}
+- {rowLabel: 'Nonmember',
+   earlyCost: 500,
+   lateCost: 600}
+- {rowLabel: 'Nonmember',
+   earlyCost: 500,
+   lateCost: 600}
+- {rowLabel: 'Nonmember',
+   earlyCost: 500,
+   lateCost: 600}

@@ -3,9 +3,26 @@
     <div class="content-wrapper">
         <div class="col-md-10 col-md-offset-1">
         <h3>Registration Fees</h3>
-        {% for regCost in site.registrationCost %}
-            <p>{{ regCost.name }}</p>
-        {% endfor %}
+        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+            <table>
+                <th>
+                    <td>
+                        Member Type
+                    </td>
+                    <td>
+                        Now through April 15, 2020
+                    </td>
+                    <td>After April 15, 2020</td>
+                </th>
+                {% for regCost in site.registrationCost %}
+                    <tr>
+                        <td>{{regCost.rowLabel}}</td>
+                        <td>{{regCost.earlyCost}}</td>
+                        <td>{{regCost.lateCost}}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
         </div>
     </div>
 </section>
