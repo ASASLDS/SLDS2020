@@ -1,0 +1,31 @@
+<!-- Registration Fees Section -->
+<section id='registration-fees'>
+    <div class="content-wrapper">
+        <h3>Registration Fees</h3>
+
+        <div class='col-md-10 col-md-offset-1'>
+            <div class='row'>
+                {% for header in site.registrationTitles %}
+                <div class="col-xs-4 flexbox-item-height">
+                    <h6>{{ header }}</h6>
+                </div>
+                {% endfor %}
+            </div>
+            {% for costInfo in site.registrationCost %}
+            <div class='row'>
+                <div class="col-xs-4 flexbox-item-height">
+                    <p>{{ costInfo.rowLabel }}</h5>
+                </div>
+                <div class="col-xs-4 flexbox-item-height">
+                    <p>${{ costInfo.earlyCost }}</p>
+                </div>
+                <div class="col-xs-4 flexbox-item-height">
+                    <p>${{ costInfo.lateCost }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+    </div>
+</section>
+<!-- End Registration Fees Section-->

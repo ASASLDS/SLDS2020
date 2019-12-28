@@ -1,0 +1,14 @@
+<!-- Registration Fees Section -->
+<section id='registration-dates'>
+    <div class="content-wrapper">
+        <div class="col-md-6 col-md-offset-3">
+        <h3>Key Dates</h3>
+        <div class="animated" data-delay="0" style='text-align: left; font-size: 13px;'>
+            {% for date_info in site.keyDates %}
+            <p><b>{{ date_info.date }}</b> - {{ date_info.info }} </p>
+            {% endfor %}
+        </div>
+        </div>
+    </div>
+</section>
+<!-- End Registration Fees Section-->
