@@ -184,8 +184,12 @@ registrationCost:
 posterSubmitLink: '#'
 
 # Poster Prizes Block
-prizesTitle: "Prizes"
+prizesTitle: "Poster Awards"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+
+# Poster Paper Submission Text
+paperCompetitionText: "Here is where the paper competition text would go."
+travelAwardInfoText: "Here is where the travel award text would go."
