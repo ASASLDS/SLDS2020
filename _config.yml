@@ -45,6 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "Program Committee"}
  - {permalink: "/courses/", text: "Invited Short Courses"}
+ - {permalink: "/registration/", text: "Registration & Key Dates"}
  - {link: "https://publish.illinois.edu/sldsc2018/", text: "SLDS 2018"}
 # - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Program Outline"}
