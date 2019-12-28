@@ -1,46 +1,31 @@
 <!-- Registration Fees Section -->
 <section id='registration-fees'>
     <div class="content-wrapper">
-        <div class="col-md-10 col-md-offset-1">
         <h3>Registration Fees</h3>
-        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
-            <table>
-                <th>
-                    <td>
-                        Member Type
-                    </td>
-                    <td>
-                        Now through April 15, 2020
-                    </td>
-                    <td>After April 15, 2020</td>
-                </th>
-                {% for regCost in site.registrationCost %}
-                    <tr>
-                        <td>{{regCost.rowLabel}}</td>
-                        <td>{{regCost.earlyCost}}</td>
-                        <td>{{regCost.lateCost}}</td>
-                    </tr>
-                {% endfor %}
-            </table>
 
-        <div class="timeslot track-header stick-header">
-            <div class="timeslot-elements flexbox-wrapper">
+        <div class='col-md-10 col-md-offset-1'>
+            <div class='row'>
                 {% for header in site.registrationTitles %}
-                <div class="track-header-slot col-md-3 flexbox-item-height hidden-xs">
-                    <h5 class="track-header-title">{{ header }}</h5>
+                <div class="col-xs-4 flexbox-item-height">
+                    <h5>{{ header }}</h5>
                 </div>
                 {% endfor %}
-                <div class="track-header-slot col-xs-12 visible-xs">
-                    <h5 class="slot-detail track-header-title"></h5>
+            </div>
+            {% for costInfo in site.registrationCost %}
+            <div class='row'>
+                <div class="col-xs-4 flexbox-item-height">
+                    <p>{{ costInfo.rowLabel }}</h5>
+                </div>
+                <div class="col-xs-4 flexbox-item-height">
+                    <p>{{ costInfo.earlyCost }}</p>
+                </div>
+                <div class="col-xs-4 flexbox-item-height">
+                    <p>{{ costInfo.lateCost }}</p>
                 </div>
             </div>
+            {% endfor %}
         </div>
 
-    </div>
-
-
-
-        </div>
     </div>
 </section>
 <!-- End Registration Fees Section-->
