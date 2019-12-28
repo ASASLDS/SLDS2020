@@ -163,18 +163,18 @@ registrationCost:
 - {rowLabel: 'Nonmember',
    earlyCost: 500,
    lateCost: 600}
-- {rowLabel: 'Nonmember',
-   earlyCost: 500,
-   lateCost: 600}
-- {rowLabel: 'Nonmember',
-   earlyCost: 500,
-   lateCost: 600}
-- {rowLabel: 'Nonmember',
-   earlyCost: 500,
-   lateCost: 600}
-- {rowLabel: 'Nonmember',
-   earlyCost: 500,
-   lateCost: 600}
-- {rowLabel: 'Nonmember',
-   earlyCost: 500,
-   lateCost: 600}
+- {rowLabel: 'NPAR Section Member',
+   earlyCost: 400,
+   lateCost: 500}
+- {rowLabel: 'SLDS Section Member',
+   earlyCost: 400,
+   lateCost: 500}
+- {rowLabel: 'Student, ASA Member',
+   earlyCost: 200,
+   lateCost: 300}
+- {rowLabel: 'Student, Non-ASA Member',
+   earlyCost: 300,
+   lateCost: 400}
+- {rowLabel: 'Senior (age ≥ 65)',
+   earlyCost: 200,
+   lateCost: 300}
