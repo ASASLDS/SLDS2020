@@ -64,8 +64,8 @@ eventDate: "May 27-29, 2020"
 typeoutTextValues: '"", "Statistics", "DataScience", "NonparaStat", "UC-Irvine"'
 typeoutFallback: "UC-Irvine"
 heroButtons:
- - {link: "https://forms.gle/563fdbcjrNm4Lge26", text: "Join us at SLDS 2020"}
- - {permalink: "/#about", text: "Register for SLDS 2020 Now!"}
+ - {link: "https://www.amstat.org/EventDetail?Eventkey=SLDS2020", text: "Join us at SLDS 2020"}
+ - {link: "https://www.amstat.org/EventDetail?Eventkey=SLDS2020", text: "Register for SLDS 2020 Now!"}
 
 # About Block
 aboutTitle: "SLDS 2020"
