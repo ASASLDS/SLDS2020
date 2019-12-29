@@ -179,3 +179,13 @@ registrationCost:
 - {rowLabel: 'Senior (age ≥ 65)',
    earlyCost: 200,
    lateCost: 300}
+
+
+# Networking Page
+networkingRows:
+- {title: 'doot',
+   details: 'doot doot'}
+- {title: 'pew',
+   details: 'pew pew'}
+- {title: 'Keep Calm',
+   details: 'Carry On'}
