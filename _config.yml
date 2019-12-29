@@ -184,8 +184,11 @@ registrationCost:
 # Networking Page
 networkingRows:
 - {title: 'doot',
-   details: 'doot doot'}
+   details: 'doot doot',
+   image: 'hackathon-0.png'}
 - {title: 'pew',
-   details: 'pew pew'}
+   details: 'pew pew',
+   image: 'hackathon-1.png'}
 - {title: 'Keep Calm',
-   details: 'Carry On'}
+   details: 'Carry On',
+   image: 'hackathon-2.png'}
