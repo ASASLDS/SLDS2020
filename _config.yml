@@ -65,7 +65,7 @@ typeoutTextValues: '"", "Statistics", "DataScience", "NonparaStat", "UC-Irvine"'
 typeoutFallback: "UC-Irvine"
 heroButtons:
  - {link: "https://www.amstat.org/EventDetail?Eventkey=SLDS2020", text: "Join us at SLDS 2020"}
- - {link: "https://www.amstat.org/EventDetail?Eventkey=SLDS2020", text: "Register for SLDS 2020 Now!"}
+ - {permalink: "/#about", text: "Conference Info"}
 
 # About Block
 aboutTitle: "SLDS 2020"
