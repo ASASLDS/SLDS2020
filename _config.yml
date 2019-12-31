@@ -200,7 +200,9 @@ contributedPostersDescription: "We invite submissions to a Contributed Poster Se
 
 # Poster Prizes Block
 posterPrizesTitle: "Poster Awards"
+posterPrizesSubtitle: "Sponsored by Two Sigma"
 posterPrizesText: "At SLDS 2020, we will give out poster awards sponsored by Two Sigma. The poster award will be reviewed by an award committee co-chaired by Adam Rothman (arothman@umn.edu, University of Minnesota) and Ali Shojaie (ashojaie@uw.edu, University of Washington). The committee will consider both the quality of the presented statistics and data science research and the visual display of information. "
+posterPrizesImg: 'partners\two-sigma-transparent.png'
 
 # Poster Paper Submission Text
 paperCompetitionTitle: "Student Paper Competition"
