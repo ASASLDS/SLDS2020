@@ -72,9 +72,9 @@ heroButtons:
 # About Block
 aboutTitle: "SLDS 2020"
 aboutBlock:
- - {title: "Conference", url: "/registration/", image: "conference.JPG", text: "Conference on Statistical Learning and Data Science/Nonparametric Statistics 2020 (SLDS 2020)-- a bi-annual gathering of top researchers in Statistical Learning, Data Science, and Nonparametric Statistics, and a forum for presentation and discussion of research."}
- - {title: "Short Courses", url: "/courses/", image: "shortcourse.JPG", text: "Learning opportunities on the latest advances in data science. ASA SLDS encourages the use of Statistical Learning methods in Data Science applications."}
- - {title: "Networking", url: "/networking/", image: "networking.JPG", text: "A platform to promote young researchers and graduate students. ASA SLDS builds cooperative relationships on behalf of the Association with other organizations that have interests in these fields."}
+ - {title: "Conference", url: "/SLDS2020/registration/", image: "conference.JPG", text: "Conference on Statistical Learning and Data Science/Nonparametric Statistics 2020 (SLDS 2020)-- a bi-annual gathering of top researchers in Statistical Learning, Data Science, and Nonparametric Statistics, and a forum for presentation and discussion of research."}
+ - {title: "Short Courses", url: "/SLDS2020/courses/", image: "shortcourse.JPG", text: "Learning opportunities on the latest advances in data science. ASA SLDS encourages the use of Statistical Learning methods in Data Science applications."}
+ - {title: "Networking", url: "/SLDS2020/networking/", image: "networking.JPG", text: "A platform to promote young researchers and graduate students. ASA SLDS builds cooperative relationships on behalf of the Association with other organizations that have interests in these fields."}
 
 # Statistic Block
 statisticBlockImage: "poster.jpg"
