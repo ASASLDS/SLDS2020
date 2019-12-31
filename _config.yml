@@ -196,7 +196,7 @@ networkingRows:
 
 # Posters Page
 posterSubmitLink: 'https://forms.gle/P5QuwL41JgzJgkMS9'
-contributedPostersDescription: "We invite submission to a Contributed Poster Session at SLDS 2020. The poster session will feature a reception sponsored by Two Sigma and is a great event to learn about the latest research in Staistical Learning and Data Science, talk to data scientists from both academia and industry and mingle."
+contributedPostersDescription: "We invite submissions to a Contributed Poster Session at SLDS 2020. The poster session will feature a reception sponsored by Two Sigma and is a great event to learn about the latest research in Staistical Learning and Data Science, talk to data scientists from both academia and industry and mingle."
 
 # Poster Prizes Block
 posterPrizesTitle: "Poster Awards"
