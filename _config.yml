@@ -195,20 +195,20 @@ networkingRows:
    image: 'networking-banquet.jpg'}
 
 # Posters Page
-posterSubmitLink: '#'
-contributedPostersDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+posterSubmitLink: 'https://forms.gle/P5QuwL41JgzJgkMS9'
+contributedPostersDescription: "We invite submission to a Contributed Poster Session at SLDS 2020. The poster session will feature a reception sponsored by Two Sigma and is a great event to learn about the latest research in Staistical Learning and Data Science, talk to data scientists from both academia and industry and mingle."
 
 # Poster Prizes Block
 posterPrizesTitle: "Poster Awards"
-posterPrizesText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+posterPrizesText: "At SLDS 2020, we will give out poster awards sponsored by Two Sigma. The poster award will be reviewed by an award committee co-chaired by Adam Rothman (arothman@umn.edu, University of Minnesota) and Ali Shojaie (ashojaie@uw.edu, University of Washington). The committee will consider both the quality of the presented statistics and data science research and the visual display of information. "
 
 # Poster Paper Submission Text
 paperCompetitionTitle: "Student Paper Competition"
 paperCompetitionSubtitle: "Sponsored by LinkedIn"
-paperCompetitionText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+paperCompetitionText: "This year, student first-authors who submit contributed posters may also submit full unpublished papers to be considered for a LinkedIn sponsored Student Paper Competition. Papers that have been accepted for publication are NOT eligible for the competition. Selected winners will present their papers in a designated invited session at SLDS 2020. In this session, they will be presented with a monetary prize and an award certificate. Graduate or undergraduate students who are enrolled in Fall 2019 or Winter/Spring 2020 are eligible to participate. The applicant MUST be the first author of the paper. Please see the poster submission form above for instructions."
 paperCompetitionImg: 'partners\linkedin-cropped.png'
 
 # Travel Award Info
 travelAwardInfoTitle: "Travel Award Information"
-travelAwardInfoText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+travelAwardInfoText: "A limited number of travel awards are available for presenters of contributed posters. To be considered, please submit a copy of your latest CV in the poster submission form. Women and underrepresented minorities are encouraged to apply."
 
