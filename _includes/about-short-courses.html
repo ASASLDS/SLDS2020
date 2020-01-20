@@ -14,7 +14,7 @@
                     <p><b>Instructor(s):</b> {{ row.instructors }}</p>
                     <p><b>Time:</b> {{ row.time }}</p>
                     <p>{{ row.details }}</p>
-                    <p><b>Cost:</b> ${{ row.cost }} Seats are limited. One may add this short course to his/her registration at any time via the registration form (link to the registration page).</p>
+                    <p><b>Cost:</b> ${{ row.cost }}. Seats are limited. One may add this short course to his/her registration at any time via the <a href="{{ site.baseurl }}/registration/">registration form</a>.</p>
                 </div>
             </div>
             {% endfor %}
