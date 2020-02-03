@@ -10,6 +10,12 @@
                 </div>
                 <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
                     <h4>{{ row.title }}</h4>
+                    {% if row.subtitle %}
+                    <h6>
+                        {{row.subtitle}}
+                        <!-- <img style='height: 1em;' src='{{ site.baseurl }}/img/{{row.subtitleImg}}'> -->
+                    </h6>
+                    {% endif %}
                     <p>{{ row.details }}</p>
                 </div>
             </div>
