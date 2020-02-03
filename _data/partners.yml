@@ -9,3 +9,5 @@
     - {name: "Pfizer", description: "Pfizer", link: "https://www.pfizer.com/", imageUrl: "pfizer.gif"}
     - {name: "LinkedIn", description: "Linkedin", link: "https://www.linkedin.com/", imageUrl: "linkedin.png"}
     - {name: "Two Sigma", description: "Two Sigma", link: "https://www.twosigma.com/", imageUrl: "two-sigma.jpg"}
+    - {name: "NISS", description: "NISS", link: "https://www.niss.org/", imageUrl: "niss.jpg"}
+    - {name: "Cubist", description: "Cubist", link: "https://www.point72.com/cubist/", imageUrl: "cubist.png"}
