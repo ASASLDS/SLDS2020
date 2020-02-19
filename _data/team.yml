@@ -34,17 +34,6 @@
   social:
     - {name: "site", link: "https://www.jelenabradic.net/"}
 -
-  id: 5
-  name: "Sarah"
-  surname: "Kalicin"
-  title: "Organizing Committee co-Chair"
-  thumbnailUrl: sarahkalicin.jpeg
-  team: true
-  ribbon:
-    - {abbr: "LOCAL", title: "Organizing Committee"}
-  social:
-    - {name: "site", link: "https://www.linkedin.com/in/sarahkalicin/"}
--
   id: 6
   name: "Lexin"
   surname: "Li"
