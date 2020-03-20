@@ -16,3 +16,10 @@ h1.cancellationTitleText {
     font-weight:bolder;
     margin-left: 10%;
 }
+
+p.cancellationText {
+    max-width: 80%;
+    margin-left: 10%;
+    font-size: 15pt;
+    line-height: 20pt;
+}
