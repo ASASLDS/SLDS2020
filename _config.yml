@@ -62,12 +62,14 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "Irvine.jpg"
 heroTitle: "SLDS 2020 <typeout>"
-eventDate: "May 27-29, 2020"
+eventDate: "May 27-29, 2020 (Cancelled)"
 typeoutTextValues: '"", "Statistics", "DataScience", "NonparaStat", "UC-Irvine"'
 typeoutFallback: "UC-Irvine"
 heroButtons:
  - {link: "https://www.amstat.org/EventDetail?Eventkey=SLDS2020", text: "Join us at SLDS 2020"}
  - {permalink: "/#about", text: "Conference Info"}
+cancellationText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
 
 # About Block
 aboutTitle: "SLDS 2020"
