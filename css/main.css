@@ -10,3 +10,9 @@ li.committeeName a {
     text-decoration: None;
     color: inherit;
 }
+
+h1.cancellationText {
+    max-width: 80%;
+    font-weight:bolder;
+    margin-left: 10%;
+}
