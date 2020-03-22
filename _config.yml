@@ -68,6 +68,13 @@ typeoutFallback: "UC-Irvine"
 heroButtons:
  - {link: "https://www.amstat.org/EventDetail?Eventkey=SLDS2020", text: "Join us at SLDS 2020"}
  - {permalink: "/#about", text: "Conference Info"}
+cancellationHeroText: "SLDS 2020 has been cancelled due to the ongoing COVID19 pandemic. See below for more details."
+
+# Cancellation Block
+cancellationTitle: "Cancellation Notice"
+cancellationText1: "Due to the ongoing widespread COVID19 pandemic, we regret to announce that the SLDS 2020 conference can't proceed as originally scheduled. We are cancelling the in-person conference and the associated short courses and social events that would have taken place in Irvine, California, May 27-29, 2020."
+cancellationText2: "In the coming weeks, ASA will be processing refunds for registrants. Please give the organizers time to handle this high volume of administrative tasks due to the cancellation of many of our professional activities. Thank you for your understanding at this challenging time."
+cancellationText3: "The Statistical Learning and Data Science (SLDS) section is considering other virtual activities for our community. Stay tuned, stay well, and stay safe!"
 
 # About Block
 aboutTitle: "SLDS 2020"
